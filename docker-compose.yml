@@ -1,0 +1,13 @@
+services:
+  phpems:
+    image: stephenjose/phpems_windows:11
+    container_name: phpems
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - mysql_data:/data/mysql
+      - D:/data/nginx/logs:/data/nginx/logs
+
+volumes:
+  mysql_data:
