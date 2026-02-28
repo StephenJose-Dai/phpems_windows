@@ -12,7 +12,7 @@
 
 
 
-### 一、在线安装
+# 一、在线安装
 #### 1、到 https://github.com/StephenJose-Dai/phpems_windows/releases 下载最新的 ```phpems_win_install.bat``` 或者 ```phpems_win_install.ps1``` 文件
 
 ##### 2.1、如果你下载的是bat的安装脚本，那需要以管理员的身份打开CMD，然后将脚本拉到cmd窗口里或者复制脚本的路径到cmd窗口里，接着回车，等待检测完毕后，会询问你要选择在线pull还是离线包导入，选择1，最后按照窗口提示一步一步执行即可
@@ -30,7 +30,7 @@ powershell -ExecutionPolicy Bypass -File D:\script\phpems_win_install.sp1
 #### 3、安装完毕后，窗口会显示访问地址、用户名密码等信息，该信息仅显示一次，记得妥善保存。
 
 
-### 二、离线安装
+# 二、离线安装
 
 #### 1、到 https://github.com/StephenJose-Dai/phpems_windows/releases 下载最新的 ```phpems_win_install.bat``` 或者 ```phpems_win_install.ps1``` 文件和 ```phpems_windows_11.tar.gz```
 
@@ -65,7 +65,7 @@ D:\dockerimg
 #### 4、安装完毕后，窗口会显示访问地址、用户名密码等信息，该信息仅显示一次，记得妥善保存。
 
 
-# 支援
+# 三、支援
 如果有部署问题或者其他问题，可以联系作者支援  
 
 ![戴戴的Linux](qrcode.jpg)  ![phpems技术交流群](qqqrc.jpg)  
