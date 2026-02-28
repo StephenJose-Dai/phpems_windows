@@ -1,3 +1,17 @@
+**在部署phpems之前，你需要先安装docker和docker compose，Docker Desktop For Windows在 https://www.docker.com/ 首页可以下载**
+
+**[也可以点击这里直接下载](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module)**
+
+<img width="2317" height="1452" alt="QQ_1772262550187" src="https://github.com/user-attachments/assets/ad51c67f-d2cf-40c8-8270-7f09ce4e16b2" />
+
+
+**安装docker的话，通常docker compose都会一并安装掉**
+**docker安装完成后再来执行下列操作**
+
+**目前支持 `在线` 和 `离线` 来部署phpems docker版，但仅支持 `Windows10` 和 `Windows11`，请根据具体情况和需求来选择**
+
+
+
 ### 一、在线安装
 #### 1、到 https://github.com/StephenJose-Dai/phpems_windows/releases 下载最新的 ```phpems_win_install.bat``` 或者 ```phpems_win_install.ps1``` 文件
 
